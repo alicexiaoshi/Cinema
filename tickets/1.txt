@@ -1,0 +1,1 @@
+Ticket ID: 33144341; Film: BEAUTY AND THE BEAST; Time: 12:30; Screen: screen1; Type: Student; Need StudentID? :true

@@ -1,0 +1,15 @@
+
+
+Screen 1
+BEAUTY AND THE BEAST      10:00 12:30
+KONG: SKULL ISLAND         15:30 18:30 21:00
+-----------------------------------------------------------------
+Screen 2	
+LALA LAND                         10:30 13:00
+MOONLIGHT                         16:00 18:00
+KONG:SKULL ISLAND          20:00
+-----------------------------------------------------------------
+Screen 3
+BEAUTY AND THE BEAST    10:30 13:00
+LOGAN                                 15:30 18:00
+KONG:SKULL ISLAND         20:30
