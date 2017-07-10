@@ -10,3 +10,5 @@ Functionalities:
 2. Customer can choose movie according to the poster of films.
 3. Customer can choose time, ticket type and the number of tickets he wants to buy.
    If the time he chosen has already past the current time, that ticket could not be sold.
+4. Customer can choose seats.
+5. After a whole day, system can give a statistic result of how many tickets are sold, etc.
